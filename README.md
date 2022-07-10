@@ -2,11 +2,11 @@
 val dragneelfps = developer {
     about {
         name = "Sourabh"
-        company = "Expedia Group"
+        company = "Uber"
         role = "Software Developer 2"
-        description = "Building supplier facing solutions for Expedia's Lodging Booking Team"
+        description = "Building Places Platform"
     }
-    tech("Kotlin", "Spring", "Aws")
+    tech("Kotlin", "Scala", "Spark", "Spring", "Aws")
     links {
         linkedin = "https://www.linkedin.com/in/sourabhsrawat/"
     }
